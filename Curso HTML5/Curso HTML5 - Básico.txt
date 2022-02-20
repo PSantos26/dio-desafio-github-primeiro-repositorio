@@ -1,0 +1,21 @@
+Curso HTML5 - Fundação Bradesco 
+
+- Introdução ao HTML5
+HTML não é uma linguagem de programação; é uma linguagem de marcação, usada para definir a estrutura do seu conteúdo. HTML consiste de uma série de elementos, 
+que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira.
+
+- Anatomia de um Elemento HTML
+
+- Aninhnado Elementos
+
+- Elementos Vazios
+
+- Imagens
+
+- Marcando o Texto
+
+- Parágrafos
+
+- Listas
+
+- Links
